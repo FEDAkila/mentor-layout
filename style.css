@@ -1,0 +1,182 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container
+{
+	width:90%;
+	margin:0 auto;
+	
+
+}
+.row
+{
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.col-1
+{
+	width:8.33%;
+	padding:0 15px;
+}
+.col-2
+{
+	width:16.66%;
+	padding:0 15px;
+}
+.col-3
+{
+	width:25%;
+	padding:0 15px;
+}
+.col-4
+{
+	width:33.33%;
+	padding:0 15px;
+}
+.col-5
+{
+	width:41.66%;
+	padding:0;
+}
+.col-6
+{
+	width:50%;
+	padding:0 15px;
+}
+.col-7
+{
+	width:58.33%;
+	padding:0;
+}
+.col-8
+{
+	width:66.66%;
+	padding:0 15px;
+}
+.col-9
+{
+	width:75%;
+	padding:0 15px;
+}
+.col-10
+{
+	width:83.33%;
+	padding:0 15px;
+}
+.col-11
+{
+	width:91.66%;
+	padding:0 15px;
+}
+.col-12
+{
+	width:100%;
+	padding:0 15px;
+}
+#header{
+	background-color:black;
+	
+	padding:50px 0;}
+
+.mentor{
+	background-color:white;
+	height:50px;
+	
+}
+.nav{
+	background-color:white;
+	height:50px;
+	}
+	
+	
+	#sec-2{
+		background-color:white;
+		padding:50px 0;
+	}
+	.head-content{
+		background-color:black;
+		height:150px;}
+		#sec-3{
+			background-color:black;
+			padding:50px 0;
+		}
+		.sec3-leftcontent{
+			background-color:white;
+			height:250px;
+		}
+		.sec3-rightcontent{
+			background-color:white;
+			height:250px;
+		}
+		#sec-4{
+			background-color:white;
+			padding:50px 0;
+		}
+		.sec4-content{
+			background-color:black;
+			height:150px;
+		}
+		.row2{
+			display:flex;
+			flex-wrap:wrap;
+			justify-content:center;
+		align-items:center;}
+		#sec-5{
+			background-color:black;
+			padding:50px 0;
+			}	
+		.sec5-firstcontent{
+			background-color:white;
+			height:400px;
+		}
+		.sec5-content{
+			background-color:white;
+			height:250px;
+		}
+		#sec-6{
+			background-color:white;
+			padding:50px 0;
+		}
+		.item{
+			background-color:black;
+		height:50px;
+		margin:20px 0;}
+		#sec-7
+		{
+			background-color:black;
+			padding:50px 0;
+		}
+		.sec7-title{
+			background-color:white;
+			width:20%;
+			height:100px;
+			margin-bottom:20px;
+		}
+		.sec7-content{
+			background-color:white;
+			height:400px;
+		}
+		#sec-8
+		{
+			background-color:white;
+			padding:50px 0;
+		}
+		.sec8-content{
+			background-color:black;
+			height:400px;
+		}
+		#sec-9
+		{
+			background-color:black;
+			padding:50px 0;
+		}
+		
+		
+		.last-content{
+			background-color:white;
+		height:300px;}
+		
+		
